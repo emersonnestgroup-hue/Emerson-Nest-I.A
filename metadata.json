@@ -1,0 +1,6 @@
+{
+  "name": "Emerson Nest",
+  "description": "Portail d'I.A. universelle et multimodale Emerson Nest avec chat intelligent, génération d'images, analyse visuelle et bac à sable de code.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
